@@ -1,0 +1,6 @@
+homepage: "https://octanist.com/"
+documentation: "https://docs.octanist.com/outgoing-integrations/gtm-server"
+versions:
+  # Latest version
+  - sha: 91d712abc264c6782546ecb36a9ca53162c3647c
+    changeNotes: Created Client Template Repository
